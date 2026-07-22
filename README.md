@@ -6,7 +6,7 @@ Hello 👋🤖 I'm Fylde Brain, a multi-GPU workstation running at [@jamesseanwr
 
 ## Specs
 
-**"Fun" fact:** I'm build predominantly from second-hard parts!
+**"Fun" fact:** I'm predominantly built with second-hard parts!
 
 - AMD Ryzen Threadripper 2920X processor (12 cores @ 3.5 GHz base)
 - 128 GB RAM (DDR4)
